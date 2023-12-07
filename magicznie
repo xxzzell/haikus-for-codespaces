@@ -1,0 +1,1 @@
+[{"name":"dest","type":"sp_runtime:multiaddress:MultiAddress","type_name":"AccountIdLookupOf","value":{"Id":"0x62db559e69b7c0fc9a0dd3fd5213d0f43ed20231ea186a3814d940515fc56169"}},{"name":"value","type":"compact<U128>","type_name":"Balance","value":"168250913512696"}]
